@@ -2,10 +2,8 @@
 
 - About
   - Can use with anything
-  - MVC: Model View Controller. design pattern
-  - Controller - backend
-  - model - db
-  - view - web browser
+  - Javascript library.
+  - only deals with V(view) in MVC
   - component architecture
   - uses virtual dom and then renders changes notices on the actual dom
   - Redux and Mobx popular tools to manage state
@@ -14,3 +12,15 @@
 
 - Gulp.js
 - Webpack.js
+
+- Why React
+  - one of quickest load times. 
+
+
+  MVC: Model View Controller. design pattern
+  - Controller - backend
+  - model - db
+  - view - web browser
+
+- Angular
+  - 2-way data binding: things updated in view also updated in controller simultaneously.
